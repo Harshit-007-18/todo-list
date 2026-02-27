@@ -1,7 +1,7 @@
 # 📝 React Todo List Web Application
 
-An interactive and beginner-friendly Todo List application built with **React.js**.
+A simple yet functional Todo List web application built using **React.js** as part of my frontend learning journey.
 
-This project demonstrates my understanding of fundamental React concepts including reusable components, state management with hooks, event handling, and conditional rendering. The application provides a clean and responsive interface where users can manage daily tasks efficiently.
+This project focuses on understanding core React concepts such as component-based architecture, state management using `useState`, handling user input, and dynamic rendering of UI elements. The application allows users to add, delete, and mark tasks as completed in real-time without refreshing the page.
 
-Through this project, I focused on writing clean code, structuring components properly, and building a smooth user experience.
+The goal of this project was to strengthen my fundamentals in React and gain hands-on experience building an interactive single-page application.
